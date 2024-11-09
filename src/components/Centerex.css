@@ -1,0 +1,92 @@
+.servCenterexices {
+    text-align: center;
+    
+  }
+  .space{
+    height:10px;
+  }
+
+  .Centerex {
+    margin-top: 15px;
+    margin-bottom: 10PX;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    height: 500px;
+
+
+    
+  }
+  .Centerex h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    color: darkgreen;
+  }
+  .Centerex-item {
+    background-color:rgb(243, 244, 247);
+   padding: 22px;
+    width: 12%;
+    color: #e4e6f3;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    text-align: center;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 0 10px rgba(125, 106, 22, 0.1);
+  }
+  
+  .Centerex-item h3 {
+    margin-top: 30px;
+    font-size: 1.1rem;
+     color:rgb(13, 43, 26); 
+  
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify; 
+  }
+  
+  .Centerex-item:hover {
+    background-color:rgb(235, 239, 245);
+    transform: translateY(-10px);
+  }
+  
+  
+  .Centerex hr {
+    
+    margin-left: 600px;
+    margin-right: 600px;
+  }
+  .Centerex p {
+    font-size: 1.1rem;
+    color:black;
+    text-align: justify; 
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 20px;
+  }
+  
+  .Centerex-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+    
+  .Centerex-item:hover {
+    background-color:rgb(91, 124, 172);
+    color:black;
+  }
+
+  .Centerex-item {
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .Centerex-image {
+    width: 90%;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+
+  

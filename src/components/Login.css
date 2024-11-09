@@ -1,0 +1,80 @@
+
+
+.login-containerk {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    animation: jump 1s infinite;
+    margin-top: 10px;
+  }
+
+  .back-button{
+
+    width: 80%;
+    max-width: 100px;
+   
+    background-color: skyblue;
+    margin-left: 10px;
+  }
+  
+  
+  
+  .login-container h2 {
+    margin-top: 10px;
+    color: #333;
+    font-size: 19px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 80PX;
+  }
+  .form{
+    background-color: #9b59b6;
+  }
+  
+  .form-group {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-right: 700PX;
+  }
+  
+  .login-btnk {
+    width: 80%;
+    max-width: 100px;
+    padding: 10px;
+    background-color: skyblue;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: 90PX;
+    transition: background-color 0.3s ease;
+    margin-bottom:240px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  
+  .login-btnk:hover {
+    background-color: rgb(63, 69, 134);
+  }
+  

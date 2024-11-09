@@ -1,0 +1,30 @@
+.appointment-history {
+    padding: 20px;
+    background-color:lightblue ;
+    height: 300px;
+    margin-top: 30px;
+    margin-bottom: 180px;
+  }
+  
+  .appointment-history table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .appointment-history th, .appointment-history td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    color: black;
+  }
+  
+  .appointment-history th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
+  .backj-button{
+    margin-top: 50px;
+    color:black;
+    background-color:lightblue ;
+  }
+  
+  

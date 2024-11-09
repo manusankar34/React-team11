@@ -1,0 +1,152 @@
+.pharmacy {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+ margin-top: 40px;
+ margin-bottom: 40px;
+ background-color: #b2dae9;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  border: 1px solid #ccc;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+ 
+}
+
+.pharmacy h1 {
+  text-align: center;
+  color:green;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.pharmacy-info, .medicine-list, .cart {
+  margin-bottom: 30px;
+}
+
+.medicine-list ul, .cart ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.medicine-list li, .cart li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.medicine-list li button, .cart li button {
+  padding: 5px 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.medicine-list li button:hover, .cart li button:hover {
+  background-color: #218838;
+}
+
+.cart h3 {
+  text-align: right;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.checkout-btn {
+  padding: 10px;
+  width: 100%;
+  background-color: #218838;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.checkout-btn:hover {
+  background-color:darkgreen;
+}
+
+
+.pharmacy {
+  background-image: url(https://assets.pharmeasy.in/apothecary/images/logo_big.svg);
+ 
+  margin-bottom: 30px;
+  background-repeat: no-repeat;
+}  
+
+
+.pharmacy-itemk{
+  background-color: white;
+  padding: 20px;
+  width: 20%;
+  height:16%;
+  border-radius: 8px;
+  text-align: center;
+  margin-bottom: 20px;
+  transition: background-color 0.8s ease, transform 0.8s ease;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-repeat: no-repeat;
+  background-position: 100px;
+  background-color: rgb(241, 247, 247);
+  background-size: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+.pharmacy-item {
+ 
+  background-repeat: no-repeat;
+
+  background-color: rgb(230, 240, 240);
+  padding: 20px;
+  width: 20%;
+  height:16%;
+  border-radius: 8px;
+  text-align: center;
+  margin-bottom: 20px;
+  transition: background-color 0.8s ease, transform 0.8s ease;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.pharmacy-item:hover {
+  background-color:rgb(178, 213, 226);
+ 
+}
+
+.pharmacy-item p {
+  font-size: 1rem;
+  color: #7f8c8d;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+  
+}
+
+.pharmacy-item p :hover {
+  
+  color:rgb(245, 242, 242);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  
+}
+
+.pharmacy-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+

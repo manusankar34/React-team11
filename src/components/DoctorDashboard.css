@@ -1,0 +1,38 @@
+.doctor-dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    padding: 20px;
+    background: url('https://img.freepik.com/free-photo/doctor-man-consulting-patient-while-filling-up-application-form-desk-hospital_1150-12965.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 20px;
+    color: white;
+    margin-top: 10px;
+  }
+  
+  .doctor-dashboard .dashboard-section {
+    background-color: rgb(226, 228, 231);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 70%;
+    margin-top: 10px;
+    max-width: 290px;
+    text-align: center;
+    height: 60px;
+    color: rgb(128, 50, 50); 
+    margin-bottom: 70px;
+    margin-right: 100px;
+  }
+  .backq-button{
+    margin-right: 90px;
+    margin-bottom: 100px;
+    background-color:lightblue;
+    color:darkblue;
+  }
+  
+
+ 
+  

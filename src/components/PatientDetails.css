@@ -1,0 +1,57 @@
+.patient-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background: url('https://www.kimshealth.org/media/filer_public/c1/e9/c1e996b7-0c58-4a22-a987-8e10215b5326/1_03.jpg') no-repeat center center;
+    background-size: cover;
+  
+    color: white;
+    margin-top: 10px;
+  }
+   .hj {
+    font-family: 'Roboto', sans-serif;
+    color: #4e502c;
+    margin-right: 800px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  .patient-card {
+    background-color: #abb8cb;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top:15px ;
+    margin-right: 800px;
+    width: 200px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  
+  .patient-card h3 {
+    margin-top: 0;
+    color: #333;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  
+  .patient-card p {
+    margin: 5px 0;
+    color: #555;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  
+  .patient-card p strong {
+    color: #000;
+  }
+  .backr-button{
+    background-color: cornflowerblue;
+    margin-right: 800px;
+  }
+  

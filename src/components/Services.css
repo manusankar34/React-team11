@@ -1,0 +1,99 @@
+.services {
+  padding: 50px 20px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  background-color:#bbcce4;
+  margin-left: 10px;
+  margin-right: 10px;
+ 
+}
+.services h3{
+  color:green;
+}
+.service-item {
+  background-color: white;
+  padding: 20px;
+  width: 30%;
+  height:16%;
+  border-radius: 8px;
+ 
+  text-align: center;
+  margin-bottom: 20px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.services p {
+  font-size: 1.1rem;
+  color:black;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-weight: lighter;
+  line-height: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: justify;  
+}
+
+.service-item h3 {
+  font-size: 1.1rem;
+  color: green;
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.service-item:hover {
+  background-color:cornflowerblue;
+  transform: translateY(-10px);
+}
+
+
+.modal-content {
+ 
+  background-color: #fefefe;
+
+background-image: url('https://www.google.com/search?client=firefox-b-e&q=pharmacy+billing+imagges#vhid=bwCBRA9lS02rbM&vssid=_ArkkZ97CH9GWseMPusD46Aw_43');
+background-position: 30cap,10cap,20cap,70cap;
+background-repeat: no-repeat;
+  height: 380px;
+  border: 1px solid #888;
+  width: 100%; 
+}
+
+.services hr {
+  
+  margin-left: 600px;
+  margin-right: 600px;
+}
+
+
+.service-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+
+.service-item:hover {
+  background-color:rgb(146, 142, 201);
+  color:black;
+}
+
+
+
+.service-item p {
+  font-size: 1rem;
+  color: #7f8c8d;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.service-item p :hover {
+  
+  color:black;
+}
+

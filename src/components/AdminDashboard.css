@@ -1,0 +1,131 @@
+
+.admin-dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background: url('https://www.mentoringcomplete.com/wp-content/uploads/2023/04/Mentoring-in-Health-Care-2.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 20px;
+    color: white;
+    margin-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  
+  .admin-dashboard h1 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  
+  .dashboard-section {
+    background-color: rgb(130, 158, 205);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+    margin-top: 20px;
+    max-width: 200px;
+    text-align: center;
+    height:60px;
+    margin-bottom: 20px;
+    margin-right: 700px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+
+  .dashboard-sectionl{
+    background-color: rgb(130, 158, 205);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+    margin-top: 20px;
+    max-width: 200px;
+    text-align: center;
+    height:60px;
+    margin-bottom: 20px;
+    margin-right: 700px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  .dashboard-sectionp{
+    background-color: rgb(130, 158, 205);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+    margin-top: 20px;
+    max-width: 200px;
+    text-align: center;
+    height:60px;
+    margin-bottom: 20px;
+    margin-right: 700px;
+
+  }
+
+  .dashboard-sectiond{
+    background-color: rgb(130, 158, 205);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 50%;
+    margin-top: 20px;
+    max-width: 200px;
+    text-align: center;
+    height:60px;
+    margin-bottom: 20px;
+    margin-right: 700px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  
+  .dashboard-section h2 {
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+
+  
+  .custom-link {
+    color: blue;
+    font-size: 18px; 
+    text-decoration: none; 
+    font-family: 'Arial', sans-serif; 
+  }
+  
+  .custom-link:hover {
+    color: rgb(79, 79, 97); 
+    text-decoration: underline; 
+  }
+  
+  .add-doctor-btn {
+    margin-top:40px ;
+    
+    padding: 10px 20px;
+    background-color: #2f3265;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  
+  .add-doctor-btn:hover {
+    background-color: #304a8b;
+  }
+  .backjk-button{
+    margin-bottom: 10px;
+    background-color: #304a8b;
+    margin-right: 700px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  

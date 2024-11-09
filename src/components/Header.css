@@ -1,0 +1,22 @@
+.marquee {
+   
+    white-space: nowrap;
+    overflow: hidden;
+    width: 50%;
+    
+  }
+
+
+  .marquee p {
+    display: inline-block;
+    animation: marquee 15s linear infinite;
+  
+  }
+
+
+  .navbar {
+    background-color:royalblue;
+    
+  }
+
+  
